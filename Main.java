@@ -1,3 +1,4 @@
+
 public class Main {
 
     public static void main(String[] args) {
@@ -13,6 +14,11 @@ public class Main {
         System.out.println("Member Age: 25");
 
         System.out.println("\nWelcome to the Library Management System!");
+
+        System.out.println("\n--- Library Information ---");
+        System.out.println("Library Name: BIT504 Library");
+        System.out.println("Available Service: Book Borrowing");
+        System.out.println("System Status: Operational");
 
     }
 }
